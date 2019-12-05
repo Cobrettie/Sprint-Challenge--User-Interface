@@ -201,3 +201,54 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* About.html styling */
+
+.about-header {
+  width: 95%;
+  margin: 0 auto;
+}
+
+.about-header p {
+  padding: 0 0 20px 0;
+}
+
+.first-row-box-contain {
+  width: 100%;
+  padding: 30px 0 0 0;
+  border-top: 2px dotted black;
+  display: flex;
+  justify-content: space-between;
+}
+
+.about-box {
+  border-bottom: 2px dotted lightgrey;
+  width: 47%;
+  margin: 0 1%;
+}
+
+.learn-more-btn {
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 30%;
+  text-align: center;
+  padding: 8px 10px;
+  margin: 20px 0 20px 0;
+}
+
+.second-row-box-contain {
+  width: 100%;
+  padding: 20px 0 0 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.about-bottom-text-content {
+  padding: 40px 0 0 0;
+  width: 95%;
+  margin: 0 auto;
+}
+
+.about-bottom-text-content p {
+  padding: 0 0 30px 0;
+}
