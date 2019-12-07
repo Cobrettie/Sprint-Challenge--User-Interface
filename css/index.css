@@ -227,6 +227,10 @@ footer nav a {
   margin: 0 1%;
 }
 
+.about-box h2 {
+  padding: 10px 0 0 0;
+}
+
 .learn-more-btn {
   border: 1px solid black;
   border-radius: 5px;
